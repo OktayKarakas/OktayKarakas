@@ -23,6 +23,7 @@ reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   oktaykarakas71@gmail.com
+  linkedin.com/in/oktay-karakaş-a978b1245/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
