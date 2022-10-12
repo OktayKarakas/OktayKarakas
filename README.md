@@ -15,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **JavaScript API,React,Vue,Angular** - 👨‍💻 All of my
+- 🌱 I’m currently learning **React Js** - 👨‍💻 All of my
 projects are available at
 [https://github.com/OktayKarakas](https://github.com/OktayKarakas) - 📫 How to
 reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/**
