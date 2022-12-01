@@ -99,6 +99,14 @@ reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/*
       height="40"
     />
   </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png"
+      alt="typeScript"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <p>
