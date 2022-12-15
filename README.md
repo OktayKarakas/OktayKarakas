@@ -39,6 +39,30 @@ reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/*
       height="40"
     />
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://g.foolcdn.com/art/companylogos/square/mdb.png"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img
+      src="https://miro.medium.com/max/1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png"
+      alt="expressjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
