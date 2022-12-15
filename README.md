@@ -57,7 +57,7 @@ reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/*
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img
-      src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195562/express_js-161052138fa79136c0474521906b55e2.png"
+      src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
       alt="expressjs"
       width="40"
       height="40"
