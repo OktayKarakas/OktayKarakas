@@ -132,24 +132,6 @@ reach me **oktaykarakas71@gmail.com , linkedin.com/in/oktay-karakaş-a978b1245/*
     />
   </a>
 </p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=oktaykarakas&show_icons=true&locale=en&layout=compact"
-    alt="oktaykarakas"
-  />
-</p>
-
-<p>
-  &nbsp;
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=oktaykarakas&show_icons=true&locale=en"
-    alt="oktaykarakas"
-  />
-</p>
-
 <p>
   <img
     align="center"
